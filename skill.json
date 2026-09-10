@@ -1,0 +1,17 @@
+{
+  "name": "genpark-harris-lockfree-linked-list-skill",
+  "version": "1.0.0",
+  "description": "Harris lock-free ordered linked list using logical deletion marking and single-word compare-and-swap (CAS) physical unlinking.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "harris-linked-list",
+    "lock-free-list",
+    "logical-deletion",
+    "concurrency",
+    "cas"
+  ],
+  "dependencies": []
+}
